@@ -1,6 +1,6 @@
 const express = require("express");
 const mysql = require("mysql");
-const mysql = require("mysql2");
+const mysql2 = require("mysql2");
 const path = require("path");
 const nodemailer = require("nodemailer");
 
