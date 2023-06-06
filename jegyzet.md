@@ -1,0 +1,4 @@
+- github oldalak kiszolgalasa
+- upcoming projects kitoltese
+- navbar tokeletesitese
+- versek
